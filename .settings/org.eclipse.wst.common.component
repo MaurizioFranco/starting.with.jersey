@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="starting.with.jersey">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/webapp"/>
+                
+        <property name="java-output-path" value="/starting.with.jersey/target/classes"/>
+        <property name="context-root" value="starting.with.jersey"/>
+            
+    </wb-module>
+    
+</project-modules>
